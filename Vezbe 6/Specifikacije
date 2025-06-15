@@ -1,0 +1,5 @@
+1. Dva klijenta se prikljuce  i oba moraju da posalju poruku "start' kako bi nastavili dalju konverzaciju
+ 1.1 Kako da klijent ceka drugog?
+ 1.2
+2. Kada se povezu onda Server odluci ko ce prvi da napise poruku.
+3. Prvi koji napise 3 poruke je pobedio a onom drugom se ispisuje poruka da je izgubio.
